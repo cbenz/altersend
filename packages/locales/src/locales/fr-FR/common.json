@@ -37,7 +37,7 @@
     "collapseSidebar": "Réduire la barre latérale",
     "expandSidebar": "Développer la barre latérale",
     "language": "Langue",
-    "systemDefault": "Valeur système",
+    "systemDefault": "Système",
     "camera": "Caméra",
     "statusBar": "Barre d'état",
     "transferMode": "Mode de transfert",
@@ -72,7 +72,7 @@
     "update": "Mettre à jour",
     "restartFailed": "Échec du redémarrage: veuillez quitter et rouvrir",
     "description": "Une nouvelle version est disponible avec les derniers correctifs et améliorations.",
-    "updateNow": "Mettre à jour",
+    "updateNow": "Mettre à jour maintenant",
     "notNow": "Plus tard"
   },
   "whatsNew": {

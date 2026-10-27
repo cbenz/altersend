@@ -10,11 +10,11 @@
     },
     "waitingForReceiver": {
       "title": "Partagez le code",
-      "description": "Envoyez le code ou QR à votre destinataire pour démarrer le transfert."
+      "description": "Envoyez le code ou le QR code à votre destinataire pour démarrer le transfert."
     },
     "receiverConnected": {
       "title": "Partagez le code",
-      "description": "Envoyez le code ou QR à votre destinataire pour démarrer le transfert."
+      "description": "Envoyez le code ou le QR code à votre destinataire pour démarrer le transfert."
     }
   },
   "actions": {
@@ -37,8 +37,8 @@
   "status": {
     "waitingForPeer": "En attente du destinataire",
     "peerConnected": "Destinataire connecté",
-    "uploaded": "Téléchargé",
-    "uploading": "Téléchargement…",
+    "uploaded": "Téléversé",
+    "uploading": "Téléversement…",
     "waiting": "En attente",
     "failed": "Échec",
     "paused": "En pause",
@@ -106,7 +106,7 @@
     "addTitle": "Que voulez-vous ajouter ?",
     "filesHint": "Choisissez un ou plusieurs fichiers",
     "folderHint": "Envoyer un dossier entier",
-    "browseDescription": "ou <link>parcourez</link> votre ordinateur",
+    "browseDescription": "ou <link>parcourir</link> votre ordinateur",
     "tapTo": "Touchez pour",
     "addMoreLink": "en ajouter",
     "browseLink": "parcourir"

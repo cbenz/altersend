@@ -3,7 +3,7 @@
     "tabTitle": "Recevoir",
     "join": {
       "title": "Recevoir des fichiers",
-      "description": "Saisissez un code de connexion à 64 caractères de l'expéditeur pour diffuser ses fichiers.",
+      "description": "Saisissez un code de connexion à 64 caractères de l’expéditeur pour récupérer ses fichiers.",
       "mobileDescription": "Scannez ou importez le QR de l’expéditeur, ou collez son code de 64 caractères pour démarrer le transfert."
     },
     "connecting": {
@@ -28,7 +28,7 @@
       "title": "Transfert incomplet"
     },
     "senderEnded": {
-      "title": "Séance terminée"
+      "title": "Session terminée"
     },
     "handshake": {
       "title": "Connexion en cours",
@@ -57,7 +57,7 @@
   "actions": {
     "scanQr": "Scanner le code QR",
     "allowCamera": "Autoriser la caméra",
-    "downloadAll": "Téléchargez tout",
+    "downloadAll": "Tout télécharger",
     "view": "Voir",
     "play": "Lire",
     "open": "Ouvrir",
@@ -88,7 +88,7 @@
     "cameraUnavailable": "Caméra indisponible.",
     "cameraCouldNotStart": "La caméra n'a pas pu démarrer. Collez plutôt le code de connexion.",
     "downloadFailed": "Échec",
-    "didntArrive": "Je ne suis pas arrivé",
+    "didntArrive": "N’est pas arrivé",
     "transferIssue": "Problème de transfert",
     "imageNoQrTitle": "Aucun code QR trouvé",
     "imageNoQrHint": "Choisissez une image contenant un code QR AlterSend.",
@@ -106,7 +106,7 @@
     "blockedTitle": "Accès à la caméra bloqué",
     "blockedHint": "Autorisez l'accès à la caméra pour AlterSend dans les paramètres de votre système, puis réessayez. Vous pouvez également coller le code à la place.",
     "noneTitle": "Aucune caméra trouvée",
-    "noneHint": "Connectez une webcam pour numériser ou collez plutôt le code de connexion.",
+    "noneHint": "Connectez une webcam pour scanner ou collez plutôt le code de connexion.",
     "unavailableTitle": "Caméra indisponible",
     "starting": "Démarrage de la caméra…",
     "enableTitle": "Activer l'accès à la caméra",
@@ -132,7 +132,7 @@
   "summary": {
     "receivedCount_one": "{{completed}} fichier sur {{count}} reçu",
     "receivedCount_other": "{{completed}} fichiers sur {{count}} reçus",
-    "savedToPhotos_one": "Enregistré dans les photos",
+    "savedToPhotos_one": "Enregistré dans Photos",
     "savedToPhotos_other": "{{count}} enregistrés dans Photos",
     "savedInFiles_one": "Enregistré dans Fichiers",
     "savedInFiles_other": "{{count}} enregistrés dans Fichiers",
